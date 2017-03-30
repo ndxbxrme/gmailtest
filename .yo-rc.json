@@ -1,0 +1,9 @@
+{
+  "generator-ndx": {
+    "filters": {
+      "appType": "web",
+      "appName": "gmailtest"
+    },
+    "appname": "13"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vs-conveyancing-mailer",
+  "private_key_id": "3ee4b02b69a2bcc48bbf4c7cb00b1fce9a799ad8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPFbT2UMhP8hHt\n9vJEegQ+VoK4L76CMT1lDtvGdQ82E7EAH8IMiLCClbGP4X1x53b6D+poqLa+2Bh+\n+uMmrmjb0VUDY2bplO5z5Fi9po6Z23p4FHsRFVOm5pFLXKkz6uxPcVul5dxUmuBg\nqxitwzphsM/aFgvXSPPnBQyDAJHS/e1TUBX7Cchl6shBeyrepIFxxTf47NUqpUMl\nCOTVwwG4ysKgkam64Xdb+51HUQGo5jB75wsUtCEvx8Dh7BurQah7OIgIL6okgL0a\nhML3APfEc1Mue7mPmhC5akxuhEOe5ziqURvHlQt6+feN4j50n0zegiVji2BjTHMN\n2L3B89ZzAgMBAAECggEBAJ34xyUnlsc1uGu5eDK4icgsImfzM/cJLPaMkSchYUs1\nVk7r6xG4rD3Rh7RkpVdg5Sf5QC46lb2cB4PGS8XUQnV9iMae64DAde6+gNub1SiV\nfyVfKkpr5HZraOb+dqz+RuqLZQh3As8fno7ftmHHjh+7y7NoIfxG0JipB1Rf+N3k\nKvwUEHzgP2gul7TJNb9A9J6DmT1u5c+2quXjB3mJHeINzpqNi7jLng47EzdAnQxF\niKdPt45b0CjNTeUuP139/90GOwHBHPhof8MlYpe7GxFxT7d4/zJcbysx2D8RzEux\nBUgc/R9tp9PhcLKwPGNt1KQKDkwKIpfbW62MR9PSEjECgYEA+GkEDDcSiEV0zrKF\nobgVs24I7uc/xRa4ATVKpc24/rR5U1HkbnVsaW4IMZnsaKmyCT43o08GgrffScTM\n3UtZg1GRLrx0H39pbaEaoQwblGLU4Gb+A5HI4/UNmkm3fPqHF8CWATMsXXTH6Idd\nzdHRuHkbbiFfHUoJZnwQeb91kjUCgYEA1Wl0/WuE0EUX/dzpIYHLGHNX4bWTcXAl\nh60qUJ95HzHaKX20IflGsCF/2ebomGX7UeltvpDzCArFISV6aIQc4MQ7/Wa/kqqN\nZrQE7hS7pq8SR+0Kv+sjlAVg4yyQAft9q2Y7a4t0PvXf8QnZ6GNrQNatB8jnf88I\norDlNeg0WwcCgYB8qW7/lk+1lW2mIU8Qtmoljq3q/qAxD1KuQIlCpfgV0ookdy91\nA3axfiechMtwRuDy5IdVbF4vEYl74siQsbStQyzh0G9SM0W8X6IWehYJJIQCTY1i\nSzIOvDbkW+Q6UxuinuJonb7A888y8WPw20AtHJHYdeTetP38sXwvLRcalQKBgCrs\n4Ukv3TD/FMpNKt9Aehda6+xMV3HTutjFbeN1kClEH7uEuzyyJRO8STkNBu/QY3Kg\nXyCbiyas8+Ws4igvmpdjISXhCtt3TqW/w9YXeX8Xa7fn5+eeZjOZuVk4V2burOJS\n19TT4ffgAME82AW0KZiLFZahRF8ix3vh1Ni48f71AoGBANTmphzBXGlE/CFiJFAK\nxcnLbHNtT/XyfKiwarKLbaiIOOinS8KOh/bkJ18SW3FsMe9qUfJS0hIDq0SflqLb\n2dxPfpKe/eKrtxck0n/cZCt9qzEFK+fUWw6cgsTxX8DDDbb86sO1MAMHtBzDgl7k\ndtE+KJ8kQsweQU92nak4Yq9I\n-----END PRIVATE KEY-----\n",
+  "client_email": "vs-email-notifications@vs-conveyancing-mailer.iam.gserviceaccount.com",
+  "client_id": "106449131547160326897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vs-email-notifications%40vs-conveyancing-mailer.iam.gserviceaccount.com"
+}
